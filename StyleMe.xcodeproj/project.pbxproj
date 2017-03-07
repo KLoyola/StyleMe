@@ -14,6 +14,17 @@
 		301487881E65175B0028C169 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 301487861E65175B0028C169 /* LaunchScreen.storyboard */; };
 		301487931E65175C0028C169 /* StyleMeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301487921E65175C0028C169 /* StyleMeTests.swift */; };
 		3014879E1E65175C0028C169 /* StyleMeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3014879D1E65175C0028C169 /* StyleMeUITests.swift */; };
+		301487AC1E651C810028C169 /* HomePage Background Image ( Closet ).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 301487AB1E651C810028C169 /* HomePage Background Image ( Closet ).jpg */; };
+		301487AE1E6524C90028C169 /* Walk-In-Closet-Design.png in Resources */ = {isa = PBXBuildFile; fileRef = 301487AD1E6524C90028C169 /* Walk-In-Closet-Design.png */; };
+		301487B01E6528E80028C169 /* Ellipse.png in Resources */ = {isa = PBXBuildFile; fileRef = 301487AF1E6528E80028C169 /* Ellipse.png */; };
+		301487B21E65D23E0028C169 /* catalouge.png in Resources */ = {isa = PBXBuildFile; fileRef = 301487B11E65D23E0028C169 /* catalouge.png */; };
+		301487B41E65D2430028C169 /* lookbook.png in Resources */ = {isa = PBXBuildFile; fileRef = 301487B31E65D2430028C169 /* lookbook.png */; };
+		301487B61E65D2480028C169 /* calender.png in Resources */ = {isa = PBXBuildFile; fileRef = 301487B51E65D2480028C169 /* calender.png */; };
+		301487B81E65D24C0028C169 /* pastlooks.png in Resources */ = {isa = PBXBuildFile; fileRef = 301487B71E65D24C0028C169 /* pastlooks.png */; };
+		301487BA1E65D2510028C169 /* rename.png in Resources */ = {isa = PBXBuildFile; fileRef = 301487B91E65D2510028C169 /* rename.png */; };
+		301487BC1E65D2550028C169 /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 301487BB1E65D2550028C169 /* settings.png */; };
+		301487BE1E65D5730028C169 /* Ellipse 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 301487BD1E65D5730028C169 /* Ellipse 10.png */; };
+		301487C01E6714430028C169 /* Background Image.png in Resources */ = {isa = PBXBuildFile; fileRef = 301487BF1E6714430028C169 /* Background Image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +58,17 @@
 		301487991E65175C0028C169 /* StyleMeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StyleMeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3014879D1E65175C0028C169 /* StyleMeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StyleMeUITests.swift; sourceTree = "<group>"; };
 		3014879F1E65175C0028C169 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		301487AB1E651C810028C169 /* HomePage Background Image ( Closet ).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "HomePage Background Image ( Closet ).jpg"; path = "../../HomePage Background Image ( Closet ).jpg"; sourceTree = "<group>"; };
+		301487AD1E6524C90028C169 /* Walk-In-Closet-Design.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Walk-In-Closet-Design.png"; path = "../../Walk-In-Closet-Design.png"; sourceTree = "<group>"; };
+		301487AF1E6528E80028C169 /* Ellipse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Ellipse.png; path = ../../Ellipse.png; sourceTree = "<group>"; };
+		301487B11E65D23E0028C169 /* catalouge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = catalouge.png; path = ../../catalouge.png; sourceTree = "<group>"; };
+		301487B31E65D2430028C169 /* lookbook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lookbook.png; path = ../../lookbook.png; sourceTree = "<group>"; };
+		301487B51E65D2480028C169 /* calender.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = calender.png; path = ../../calender.png; sourceTree = "<group>"; };
+		301487B71E65D24C0028C169 /* pastlooks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pastlooks.png; path = ../../pastlooks.png; sourceTree = "<group>"; };
+		301487B91E65D2510028C169 /* rename.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rename.png; path = ../../rename.png; sourceTree = "<group>"; };
+		301487BB1E65D2550028C169 /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = settings.png; path = ../../settings.png; sourceTree = "<group>"; };
+		301487BD1E65D5730028C169 /* Ellipse 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Ellipse 10.png"; path = "../../Ellipse 10.png"; sourceTree = "<group>"; };
+		301487BF1E6714430028C169 /* Background Image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Background Image.png"; path = "../../Background Image.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +119,17 @@
 		3014877C1E65175B0028C169 /* StyleMe */ = {
 			isa = PBXGroup;
 			children = (
+				301487AD1E6524C90028C169 /* Walk-In-Closet-Design.png */,
+				301487B11E65D23E0028C169 /* catalouge.png */,
+				301487BF1E6714430028C169 /* Background Image.png */,
+				301487BD1E65D5730028C169 /* Ellipse 10.png */,
+				301487B71E65D24C0028C169 /* pastlooks.png */,
+				301487B51E65D2480028C169 /* calender.png */,
+				301487BB1E65D2550028C169 /* settings.png */,
+				301487B91E65D2510028C169 /* rename.png */,
+				301487B31E65D2430028C169 /* lookbook.png */,
+				301487AF1E6528E80028C169 /* Ellipse.png */,
+				301487AB1E651C810028C169 /* HomePage Background Image ( Closet ).jpg */,
 				3014877D1E65175B0028C169 /* AppDelegate.swift */,
 				3014877F1E65175B0028C169 /* ViewController.swift */,
 				301487811E65175B0028C169 /* Main.storyboard */,
@@ -235,9 +268,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				301487BC1E65D2550028C169 /* settings.png in Resources */,
+				301487B81E65D24C0028C169 /* pastlooks.png in Resources */,
+				301487BA1E65D2510028C169 /* rename.png in Resources */,
+				301487B21E65D23E0028C169 /* catalouge.png in Resources */,
+				301487B01E6528E80028C169 /* Ellipse.png in Resources */,
 				301487881E65175B0028C169 /* LaunchScreen.storyboard in Resources */,
+				301487BE1E65D5730028C169 /* Ellipse 10.png in Resources */,
 				301487851E65175B0028C169 /* Assets.xcassets in Resources */,
+				301487B61E65D2480028C169 /* calender.png in Resources */,
 				301487831E65175B0028C169 /* Main.storyboard in Resources */,
+				301487AC1E651C810028C169 /* HomePage Background Image ( Closet ).jpg in Resources */,
+				301487AE1E6524C90028C169 /* Walk-In-Closet-Design.png in Resources */,
+				301487C01E6714430028C169 /* Background Image.png in Resources */,
+				301487B41E65D2430028C169 /* lookbook.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -514,6 +558,7 @@
 				301487A41E65175C0028C169 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		301487A51E65175C0028C169 /* Build configuration list for PBXNativeTarget "StyleMeTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +567,7 @@
 				301487A71E65175C0028C169 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		301487A81E65175C0028C169 /* Build configuration list for PBXNativeTarget "StyleMeUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +576,7 @@
 				301487AA1E65175C0028C169 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
