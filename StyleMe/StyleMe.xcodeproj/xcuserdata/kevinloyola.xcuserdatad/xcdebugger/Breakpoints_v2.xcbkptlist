@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StyleMe/ViewController.swift"
+            timestampString = "510071322.050939"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StyleMe.ViewController.__deallocating_deinit"
+                  moduleName = "StyleMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinloyola/Desktop/StyleMe/StyleMe/ViewController.swift"
+                  timestampString = "510071323.944941"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StyleMe.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; StyleMe.ViewController"
+                  moduleName = "StyleMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinloyola/Desktop/StyleMe/StyleMe/ViewController.swift"
+                  timestampString = "510071323.950987"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StyleMe.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; StyleMe.ViewController"
+                  moduleName = "StyleMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinloyola/Desktop/StyleMe/StyleMe/ViewController.swift"
+                  timestampString = "510071323.955187"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StyleMe.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;StyleMe.ViewController&gt;"
+                  moduleName = "StyleMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinloyola/Desktop/StyleMe/StyleMe/ViewController.swift"
+                  timestampString = "510071323.957444"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StyleMe.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;StyleMe.ViewController&gt;"
+                  moduleName = "StyleMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinloyola/Desktop/StyleMe/StyleMe/ViewController.swift"
+                  timestampString = "510071323.960644"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
